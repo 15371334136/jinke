@@ -63,6 +63,12 @@
   font-size:14px;
   text-align:left;
 }
+._形状 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  color:#FF0066;
+}
 .image {
   color:#000000;
 }
@@ -70,9 +76,13 @@
 }
 .table_cell {
 }
+._连接线 {
+}
 .icon {
 }
 .box_2 {
 }
 .box_3 {
+}
+.shape {
 }
